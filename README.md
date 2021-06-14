@@ -5,7 +5,7 @@ This coding challenge requires the creation of an endpoint that saves/retrieves 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages. 
 
 ```bash
 pip install
@@ -17,7 +17,9 @@ pip install
 python manage.py runserver
 ```
 
-## About the endpoint
+## About the endpoint 
+
+The service is built on Django framework as a REST endpoint. 
 
 The endpoint ``/event/manage`` has two HTTP request methods.
 
